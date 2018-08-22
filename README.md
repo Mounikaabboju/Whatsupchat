@@ -1,2 +1,0 @@
-# Whatsupchat
-Created with CodeSandbox
